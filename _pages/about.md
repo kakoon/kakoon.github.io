@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HyeYun Park"
+title: "Welcome to HyeYun Park's page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
