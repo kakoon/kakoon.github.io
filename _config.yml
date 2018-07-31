@@ -14,7 +14,7 @@ description              : &description "graduate student at SBU. works at BNL, 
 url                      : https://kakoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kakoon/kakoon.github.io"
-teaser                   : "images/bdaypic.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bdaypic.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -80,7 +80,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # Site Author
 author:
   name             : "HyeYun Park"
-  avatar           : "/images/bdaypic.png"
+  avatar           : "bdaypic.png"
   bio              : "Graduate student at SBU&BNL, Physics and Astronomy, LSST-DESC"
   #location         : "Location"
   #employer         :
