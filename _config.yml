@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HyeYun Park/ Physics and Astronomy"
+title                    : "HyeYun Park / Cat mom and Astrophysicist"
 title_separator          : "-"
 name                     : &name "HyeYun Park"
 description              : &description "graduate student at SBU. works at BNL, for LSST-DESC"
@@ -26,7 +26,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
+    appid                : "kakoon2@hanmail.net"
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -49,10 +49,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+#google_site_verification :
+#bing_site_verification   :
+#alexa_site_verification  :
+#yandex_site_verification :
 
 # Social Sharing
 #twitter:
@@ -99,7 +99,7 @@ author:
   instagram        : "raindrop_semoamy"
   #lastfm           :
   #linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-7295-2743"
   pinterest        : "kakoon2"
   #soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
