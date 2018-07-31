@@ -55,8 +55,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+#  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,35 +82,35 @@ author:
   name             : "HyeYun Park"
   avatar           : "profile.png"
   bio              : "Graduate student at SBU&BNL, Physics and Astronomy, LSST-DESC"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  #location         : "Location"
+  #employer         :
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "hyeyun.park@stonybrook.edu"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
   facebook         :
-  foursquare       :
-  github           : "academicpages"
+  #foursquare       :
+  github           : "kakoon"
   google_plus      :
-  keybase          :
+  #keybase          :
   instagram        :
-  lastfm           :
-  linkedin         :
+  #lastfm           :
+  #linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  #twitter          : "replacethistwitterhandle"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
